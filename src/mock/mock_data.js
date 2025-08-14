@@ -499,6 +499,13 @@ export const mockData = {
           "url": "https://javtiful.com/uncensored",
           "description": "最新未经审查的视频",
           "icon": "https://favicon.zhusl.com/ico?url=https://missav.ws"
+        },
+        {
+          "id": "site-1755204519497",
+          "name": "123av.ws",
+          "url": "https://123av.ws/en/dm4/tags/fc2",
+          "description": "FC2影音",
+          "icon": "https://favicon.zhusl.com/ico?url=https://missav.ws"
         }
       ]
     }
