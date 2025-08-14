@@ -520,6 +520,13 @@ export const mockData = {
           "url": "https://24av.net/en/dm9/uncensored",
           "description": "未经审查的AV",
           "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
+        },
+        {
+          "id": "site-1755205560436",
+          "name": "小黄书",
+          "url": "https://xchina.biz/photos/kind-2.html",
+          "description": "收集海量大尺度无圣光人体模特私拍套图，包括秀人网",
+          "icon": "https://xchina.biz/images/sites/favicon/1.png?v=1.0.1"
         }
       ]
     }
