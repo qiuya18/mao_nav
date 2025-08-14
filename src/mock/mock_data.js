@@ -525,7 +525,7 @@ export const mockData = {
           "id": "site-1755205560436",
           "name": "小黄书",
           "url": "https://xchina.biz/photos/kind-2.html",
-          "description": "收集海量大人体模特私拍套图",
+          "description": "海量人体模特私拍套图",
           "icon": "https://xchina.biz/images/sites/favicon/1.png?v=1.0.1"
         }
       ]
