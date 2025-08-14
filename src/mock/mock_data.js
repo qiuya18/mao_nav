@@ -506,6 +506,13 @@ export const mockData = {
           "url": "https://123av.ws/en/dm4/tags/fc2",
           "description": "FC2影音",
           "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
+        },
+        {
+          "id": "site-1755205190456",
+          "name": "avx12.com",
+          "url": "https://avx12.com/dm99/cn/fc2",
+          "description": "无码FC2 AV 在线看",
+          "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
         }
       ]
     }
