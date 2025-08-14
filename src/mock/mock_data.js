@@ -533,7 +533,7 @@ export const mockData = {
           "name": "我愛av論壇",
           "url": "https://www.52av.one/forum-64-1.html",
           "description": "自拍偷拍外流影片",
-          "icon": "https://www.52av.one/static/image/common/pc_logo.png"
+          "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
         }
       ]
     }
