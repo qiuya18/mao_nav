@@ -513,6 +513,13 @@ export const mockData = {
           "url": "https://avx12.com/dm99/cn/fc2",
           "description": "无码FC2 AV 在线看",
           "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
+        },
+        {
+          "id": "site-1755205270865",
+          "name": "24av.net",
+          "url": "https://24av.net/en/dm9/uncensored",
+          "description": "未经审查的AV",
+          "icon": "https://123av.ws/assets/123av/images/favicon.png?v=2"
         }
       ]
     }
